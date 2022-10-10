@@ -6,7 +6,7 @@
 #Clone the repo
 $git clone https://github.com/FonderElite/Physics-Vectors-Solver
 
-#Install necessary Modules
+#Install the Mecessary Modules
 $npm install -
 table
 text-animation
