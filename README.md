@@ -3,6 +3,7 @@
 
 ## Installation
 ```hs
+#Clone the repo
 $git clone https://github.com/FonderElite/Physics-Vectors-Solver
 
 #Install necessary Modules
@@ -13,6 +14,7 @@ ansi-colors
 prompts
 enquirer
 
+#Run the code automatically
 $npm run dev
 ```
 
