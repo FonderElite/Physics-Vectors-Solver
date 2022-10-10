@@ -1,4 +1,3 @@
-import { DiscordSnowflake } from '@sapphire/snowflake';
 import { table,getBorderCharacters } from 'table';
 let TextAnimation = require("text-animation");
 const { exec } = require("child_process");
